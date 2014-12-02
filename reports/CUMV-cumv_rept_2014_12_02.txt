@@ -1,0 +1,116 @@
+Report for Institution Code CUMV, Resource cumv_rept
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 205
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-03 ; Times: 1
+	Date: 2014-11-05 ; Times: 3
+	Date: 2014-11-06 ; Times: 2
+	Date: 2014-11-07 ; Times: 4
+	Date: 2014-11-08 ; Times: 3
+	Date: 2014-11-09 ; Times: 1
+	Date: 2014-11-10 ; Times: 7
+	Date: 2014-11-12 ; Times: 1
+	Date: 2014-11-13 ; Times: 3
+	Date: 2014-11-19 ; Times: 3
+	Date: 2014-11-20 ; Times: 5
+	Date: 2014-11-21 ; Times: 7
+	Date: 2014-11-22 ; Times: 1
+	Date: 2014-11-24 ; Times: 10
+	Date: 2014-11-25 ; Times: 4
+	Date: 2014-11-26 ; Times: 1
+	Date: 2014-11-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus molossus distance(location,geopoint(32.24997445586331,-108.10546875))<100000" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Regina grahamii" ; Times: 2
+	Query: "Lacerta vivipara" ; Times: 1
+	Query: "Atropoides" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Anolis sagrei (United States) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "Storeria dekayi Indiana" ; Times: 2
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "crotalus molossus distance(location,geopoint(31.686107579079483,-109.06402587890625))<100000" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 2
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "class:Reptilia catalognumber:1756" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "class:Reptilia catalognumber:1755" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "class:reptilia catalognumber:11766" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus tissue:1" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:molossus genus:Crotalus tissue:1" ; Times: 1
+	Query: "Boa constrictor" ; Times: 3
+	Query: "country:"Liberia" genus:Agama" ; Times: 1
+	Query: "Eumeces laticeps" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:multivirgatus year <= 2014" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "diadophis regalis" ; Times: 1
+	Query: "python" ; Times: 2
+	Query: "stateprovince:"Nebraska" specificepithet:multivirgatus year <= 2014" ; Times: 2
+	Query: "class:Reptilia catalognumber:1754" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 2
+	Query: "Anolis sagrei (United States) AND (NOT Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 2
+	Query: "county:"Aiken" stateprovince:"South Carolina" country:"United States" class:Reptilia" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Sceloporus jarrovii New Mexico" ; Times: 1
+	Query: "Epicrates" ; Times: 3
+	Query: ""crotalus adamanteus" type:specimen mappable:1" ; Times: 2
+	Query: "malacochersus" ; Times: 1
+	Query: "Amphisbaena caeca" ; Times: 1
+	Query: "coluber flagellum" ; Times: 1
+	Query: "sibon annulatus" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "crotalus molossus distance(location,geopoint(31.888052569652846,-109.03244018554688))<9977" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 543
+Total number of records retrieved from searches: 2888
+Number of download events that retrieved data from the resource: 199
+Total number of records downloaded: 15940
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 543
+Total number of records retrieved from searches: 2888
+Number of download events that retrieved data from the resource: 249
+Total number of records downloaded: 21660
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
