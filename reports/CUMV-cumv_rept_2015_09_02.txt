@@ -1,0 +1,315 @@
+Report for Institution Code CUMV, Resource Reptile specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 301
+Number of records retrieved in searches: 1799
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: France ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: New Zealand ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Serbia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 243
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 16
+	Date: 2015-08-03 ; Times: 35
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-05 ; Times: 8
+	Date: 2015-08-06 ; Times: 17
+	Date: 2015-08-07 ; Times: 15
+	Date: 2015-08-08 ; Times: 11
+	Date: 2015-08-09 ; Times: 8
+	Date: 2015-08-10 ; Times: 8
+	Date: 2015-08-11 ; Times: 9
+	Date: 2015-08-12 ; Times: 13
+	Date: 2015-08-13 ; Times: 9
+	Date: 2015-08-14 ; Times: 3
+	Date: 2015-08-16 ; Times: 15
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-18 ; Times: 11
+	Date: 2015-08-19 ; Times: 7
+	Date: 2015-08-20 ; Times: 6
+	Date: 2015-08-21 ; Times: 16
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-24 ; Times: 17
+	Date: 2015-08-25 ; Times: 19
+	Date: 2015-08-26 ; Times: 2
+	Date: 2015-08-27 ; Times: 9
+	Date: 2015-08-28 ; Times: 19
+	Date: 2015-08-29 ; Times: 8
+	Date: 2015-08-30 ; Times: 3
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "university of michigan" ; Times: 1
+	Query: "elaphe stateprovince:"West Virginia"" ; Times: 1
+	Query: "heterodon stateprovince:"New York"" ; Times: 1
+	Query: "clemmys guttata" ; Times: 5
+	Query: "amastridium" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "thamnophis tetrataenia" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "Crotalus mitchelli stateprovince:"California" year >= 1970 year <= 2015" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "agkistrodon stateprovince:"West Virginia"" ; Times: 1
+	Query: "Phyllorhynchus browni arizona" ; Times: 1
+	Query: "regina septemvittata west virginia" ; Times: 1
+	Query: "Crotalus adamanteus year >= 1888 year <= 2015" ; Times: 1
+	Query: "Clonophis stateprovince:"Ohio"" ; Times: 1
+	Query: "Rosita class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: "micrurus" ; Times: 1
+	Query: "lutosus" ; Times: 1
+	Query: "stateprovince:"Georgia" specificepithet:simus genus:Heterodon" ; Times: 1
+	Query: "crotalus utah" ; Times: 1
+	Query: "drymarchon melanurus" ; Times: 1
+	Query: "graptemys stateprovince:"oklahoma"" ; Times: 1
+	Query: "nevada class:reptilia institutioncode:CUMV" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 2
+	Query: "micrurus latifasciatus" ; Times: 1
+	Query: "phrynosoma modestum cochise" ; Times: 2
+	Query: "glyptemys muhlenbergii" ; Times: 2
+	Query: "Puerto Arista class:Reptilia year >= 1400 year <= 2015" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Phrynosoma mcallii county:"San Diego"" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 2
+	Query: "Farancia abacura stateprovince:"Georgia"" ; Times: 2
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "Micrurus tener" ; Times: 4
+	Query: "naultinus elegans" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:"New Jersey"" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:"New Jersey"" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "stateprovince:"florida" genus:masticophis" ; Times: 1
+	Query: "Thamnophis sirtalis Oregon Jackson" ; Times: 1
+	Query: "Lampropeltis triangulum stateprovince:"Maryland"" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:simus genus:Heterodon" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: "Agkistrodon stateprovince:"New Jersey"" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 7
+	Query: "Opheodrys aestivus stateprovince:"New Jersey"" ; Times: 1
+	Query: "Eunectes" ; Times: 1
+	Query: "Puerto Arista stateprovince:"Chiapas" country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "sistrurus miliarius miliarius" ; Times: 1
+	Query: "Atropoides" ; Times: 9
+	Query: "Gerrhonotus infernalis" ; Times: 5
+	Query: "El Paso Texas" ; Times: 1
+	Query: "willardi" ; Times: 2
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "gila monster" ; Times: 3
+	Query: "reptile mappable:1" ; Times: 2
+	Query: "catalognumber:7036 institutioncode:cumv" ; Times: 2
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "heterodon" ; Times: 1
+	Query: "Elaphe vulpina year <= 2015" ; Times: 1
+	Query: "eumeces tetragrammus brevilineatus" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "echis carinatus" ; Times: 3
+	Query: "catalognumber:463 institutioncode:CUMV" ; Times: 1
+	Query: "rabosky" ; Times: 3
+	Query: "Elaphe guttata stateprovince:"New Jersey"" ; Times: 1
+	Query: "county:"Hamilton" stateprovince:"Ohio" class:reptilia year <= 2015" ; Times: 1
+	Query: "heterodon platyrhinos stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "stateprovince:"north carolina" genus:sistrurus" ; Times: 1
+	Query: "willardi stateprovince:"arizona"" ; Times: 1
+	Query: "country:"mexico" class:reptilia (La Reforma)" ; Times: 1
+	Query: "getula maryland" ; Times: 3
+	Query: "Thamnophis atratus Oregon Jackson" ; Times: 1
+	Query: "Tomistoma" ; Times: 1
+	Query: "Lampropeltis triangulum stateprovince:"New Jersey"" ; Times: 2
+	Query: "cnemidophorus sexlineatus wild" ; Times: 3
+	Query: "county:"el paso" stateprovince:"Texas" country:"United States" specificepithet:humilis genus:leptotyphlops" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 4
+	Query: "New Mexico" ; Times: 1
+	Query: "francis marion distance(location,geopoint(32.13840869677251,-81.16973876953125))<100000" ; Times: 1
+	Query: "lampropeltis getula" ; Times: 19
+	Query: "cnemidophorus sexlineatus institutioncode:CUMV" ; Times: 1
+	Query: "Apostolepis" ; Times: 4
+	Query: "elaphe door" ; Times: 4
+	Query: "crocodylus niloticus" ; Times: 2
+	Query: "eunectes" ; Times: 1
+	Query: "mehelya capensis" ; Times: 2
+	Query: "nile crocodile" ; Times: 1
+	Query: "Crotalus horridus stateprovince:"New Jersey"" ; Times: 2
+	Query: "Lampropeltis stateprovince:"Maryland"" ; Times: 1
+	Query: "brachystoma stateprovince:"Pennsylvania"" ; Times: 2
+	Query: "Reforma class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "lampropeltis getula mappable:1" ; Times: 2
+	Query: "county:"Hamilton" stateprovince:"Ohio" year <= 2015" ; Times: 1
+	Query: "Lampropeltis stateprovince:"New Jersey"" ; Times: 1
+	Query: "elaphe guttata stateprovince:"Maryland"" ; Times: 1
+	Query: "cnemidophorus sexlineatus AND (NOT viridis)" ; Times: 1
+	Query: "Thamnophis rufipunctatus stateprovince:"Arizona" year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "gerrhonotus liocephalus" ; Times: 2
+	Query: "phrynosoma modestum (arizona)" ; Times: 1
+	Query: "Thamnophis eques stateprovince:"Arizona" year >= 1970 year <= 2015" ; Times: 1
+	Query: "Antietam stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "reptile (CALIFORNIA OR nevada) mappable:1" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 2
+	Query: "Agkistrodon piscivorus stateprovince:"Georgia"" ; Times: 2
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 2
+	Query: "puebla reptilia" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "cnemidophorus sexlineatus wild institutioncode:cumv" ; Times: 2
+	Query: "Phrynosoma mohave county" ; Times: 1
+	Query: "Puerto Arista Chiapas class:reptilia" ; Times: 1
+	Query: "county:"Sampson" class:Reptilia" ; Times: 4
+	Query: "puebla class:reptilia" ; Times: 2
+	Query: "stateprovince:"Georgia" specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "holbrookia pulchra" ; Times: 2
+	Query: "Virginia valeriae stateprovince:"New Jersey"" ; Times: 1
+	Query: "county:"fulton" stateprovince:"georgia" class:reptilia mappable:1" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:erytrogramma genus:Farancia" ; Times: 1
+	Query: "Farancia" ; Times: 5
+	Query: "heterodon simus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 6
+	Query: "malaclemys terrapin centrata" ; Times: 1
+	Query: "lampropeltis triangulum stateprovince:"West Virginia"" ; Times: 1
+	Query: "El Paso County Texas type:specimen year <= 2000" ; Times: 3
+	Query: "Crotalus adamanteus AND (NOT Florida)" ; Times: 2
+	Query: "cnemidophorus sexlineatus wild caught" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 4
+	Query: "podarcis muralis" ; Times: 1
+	Query: "Tonala Chiapas class:reptilia" ; Times: 2
+	Query: "heterodon west virginia" ; Times: 1
+	Query: "holbrookia perspicua" ; Times: 2
+	Query: "eumeces egregius similis" ; Times: 2
+	Query: "Sceloporus county:"Fresno" class:Reptilia" ; Times: 2
+	Query: "micruroides" ; Times: 1
+	Query: "Thamnophis angustirostris mappable:1" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "francis marion specificepithet:miliarius genus:sistrurus" ; Times: 1
+	Query: "eryx conicus" ; Times: 2
+	Query: "Heterodon simus" ; Times: 5
+	Query: "stateprovince:"Alabama" genus:Cemophora" ; Times: 1
+	Query: "Montevideo class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "Lampropeltis triangulum stateprovince:"west virginia"" ; Times: 1
+	Query: "leptotyphlops tissue:1" ; Times: 1
+	Query: "anolis sagrei" ; Times: 3
+	Query: "eirenis" ; Times: 1
+	Query: "Nogales class:Reptilia year >= 1400 year <= 2015" ; Times: 2
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "mabuya mexico" ; Times: 2
+	Query: "Opheodrys vernalis stateprovince:"New Mexico"" ; Times: 1
+	Query: "ohio state university" ; Times: 1
+	Query: "type:specimen genus:alligator" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 24
+	Query: "Virginia valeriae stateprovince:"Maryland"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1138 download events in this period)
+Total number of records downloaded: 4547 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2490
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 24
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 5
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-16 ; Times: 4
+	Date: 2015-08-17 ; Times: 11
+	Date: 2015-08-18 ; Times: 3
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Liolaemus pictus" ; Times: 2
+	Query: "thamnophis tetrataenia" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "venezuela reptilia" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Tonala Chiapas class:reptilia" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "type:specimen country:"Mexico" genus:Crotalus" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "Thamnophis angustirostris mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "country:"peru"" ; Times: 1
+	Query: "chalarodon" ; Times: 1
+	Query: "Puerto Arista Chiapas class:reptilia" ; Times: 2
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "nevada class:reptilia" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 301
+Total number of records retrieved from searches: 1799
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 4547
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 301
+Total number of records retrieved from searches: 1799
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 4547
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
