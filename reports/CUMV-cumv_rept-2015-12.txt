@@ -1,0 +1,243 @@
+Report for Institution Code CUMV, Resource cumv_rept
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 704
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 124
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 8
+	Date: 2015-12-09 ; Times: 4
+	Date: 2015-12-03 ; Times: 3
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 11
+	Date: 2015-12-06 ; Times: 10
+	Date: 2015-12-05 ; Times: 4
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-21 ; Times: 6
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-23 ; Times: 7
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 25
+	Date: 2015-12-28 ; Times: 4
+	Date: 2015-12-16 ; Times: 3
+	Date: 2015-12-14 ; Times: 6
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-30 ; Times: 3
+	Date: 2015-12-31 ; Times: 2
+	Date: 2015-12-10 ; Times: 9
+	Date: 2015-12-11 ; Times: 12
+	Date: 2015-12-12 ; Times: 4
+	Date: 2015-12-13 ; Times: 4
+	Date: 2015-12-18 ; Times: 2
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:aestivus genus:Opheodrys mappable:1" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "specificepithet:egregius family:Scincidae" ; Times: 2
+	Query: "snakes" ; Times: 1
+	Query: "sullivan" ; Times: 1
+	Query: "oreocryptophis porphyraceus" ; Times: 2
+	Query: "demon" ; Times: 12
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Hoplodactylus" ; Times: 3
+	Query: "Glyptemys muhlenbergii" ; Times: 22
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 4
+	Query: "Elaphe dione" ; Times: 1
+	Query: "Oligosoma" ; Times: 2
+	Query: "specificepithet:catenifer genus:Pituophis mappable:1" ; Times: 1
+	Query: "lampropeltis getula" ; Times: 1
+	Query: "genus:Rhineura class:Reptilia county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "specificepithet:odoratus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "class:reptilia county:&#34;cape may&#34; stateprovince:&#34;new jersey&#34; AND (NOT thamnophis NOT nerodia NOT coluber NOT pantherophis NOT terrapene NOT chrysemys NOT diadophis NOT chelydra NOT trachemys NOT malaclemys)" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.37184274299271,-84.80003356933594))&lt;10214" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 1
+	Query: "Arizona elegans Nevada" ; Times: 2
+	Query: "specificepithet:egregius family:Scincidae stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "Trachemys gaigeae" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "thamnophis sirtalis infernalis" ; Times: 2
+	Query: "class:reptilia county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "Gonyosoma" ; Times: 1
+	Query: "thamnophis gigas" ; Times: 1
+	Query: "porthidium dunni" ; Times: 1
+	Query: "phyllorhynchus browni arizona" ; Times: 3
+	Query: "Natrix natrix" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina class:Reptilia stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "specificepithet:fulvius class:Reptilia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Clemmys muhlenbergii (Jersey)" ; Times: 2
+	Query: "hydromedusa maximiliani" ; Times: 1
+	Query: "Typhlops punctatus" ; Times: 1
+	Query: "Terrapene ornata Georgia" ; Times: 1
+	Query: "Deirochelys" ; Times: 1
+	Query: "type:specimen specificepithet:catenifer genus:Pituophis mappable:1" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 1
+	Query: "Crotalus pricei and Arizona" ; Times: 2
+	Query: "crisantophis" ; Times: 1
+	Query: "west virginia sauritus" ; Times: 1
+	Query: "hydromedusa" ; Times: 4
+	Query: "Phrynosoma platyrhinos Pima" ; Times: 1
+	Query: "plestiodon fasciatus" ; Times: 4
+	Query: "Bothriechis nigroviridis" ; Times: 2
+	Query: "Oreocryptophis" ; Times: 2
+	Query: "specificepithet:alleni genus:Regina class:Reptilia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "embryo" ; Times: 1
+	Query: "Cordylus jonesii" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "pituophis georgia" ; Times: 1
+	Query: "Hoplodactylus granulatus" ; Times: 1
+	Query: "Elaphe scalaris" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:catenifer genus:Pituophis class:Reptilia mappable:1" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina class:Reptilia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "lampropeltis arcifera" ; Times: 3
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "catalognumber:13270 institutioncode:CUMV" ; Times: 1
+	Query: "pituophis melanoleucus lodingi" ; Times: 1
+	Query: "laticauda laticaudata" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys mappable:1" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.37184274299271,-84.80003356933594))&lt;100000" ; Times: 1
+	Query: "Leptotyphlops New Mexico" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(32.37184274299271,-84.80003356933594))&lt;14152" ; Times: 1
+	Query: "diva" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "catalognumber:13271 institutioncode:CUMV" ; Times: 2
+	Query: "stilosoma" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 889 download events in this period)
+Total number of records downloaded: 2376
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 55
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 10
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 3
+	Date: 2015-12-16 ; Times: 4
+	Date: 2015-12-17 ; Times: 13
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-18 ; Times: 20
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Uma paraphygas" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus class:Reptilia mappable:1" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Ctenophorus scutulatus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Oligosoma" ; Times: 1
+	Query: "Ctenophorus vadnappa" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "Elaphe longissima" ; Times: 1
+	Query: "Lerista praepedita" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes class:Reptilia mappable:1" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "Aprasia repens" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "Arizona elegans Nevada" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Trachemys gaigeae" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Strophurus ciliaris" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 2
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Sceloporus edwardtaylori" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Uma exsul" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "Lacerta trilineata" ; Times: 1
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "Sceloporus serrifer" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Lerista connivens" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Bothriechis nigroviridis" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Cordylus jonesii" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 1
+	Query: "Sceloporus slevini" ; Times: 1
+	Query: "order:Squamata country:&#34;Venezuela&#34; mappable:1" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "porthidium dunni" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Hemiergis peronii" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+
+
+End of report.
