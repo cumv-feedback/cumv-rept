@@ -1,0 +1,187 @@
+Report for Institution Code CUMV, Resource cumv_rept
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 487
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 114
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Russia ; Times: 11
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-20 ; Times: 5
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-26 ; Times: 10
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-25 ; Times: 26
+	Date: 2016-01-28 ; Times: 17
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 7
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 9
+	Date: 2016-01-11 ; Times: 6
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-15 ; Times: 5
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-02 ; Times: 9
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 3
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "type:specimen specificepithet:nevermanni genus:Crisantophis" ; Times: 1
+	Query: "snakes" ; Times: 2
+	Query: "guttata maryland" ; Times: 3
+	Query: "eryx colubrinus" ; Times: 1
+	Query: "Lampropeltis getula Nevada" ; Times: 1
+	Query: "demon" ; Times: 14
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "cumv 720" ; Times: 1
+	Query: "clemmys guttata" ; Times: 4
+	Query: "CUMV 9885 Micrurus" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "insculpta maryland" ; Times: 3
+	Query: "Etowah County type:specimen year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 2
+	Query: "Juniperus" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "cumv 854" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Farancia abacura Georgia" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "cumv 8235" ; Times: 2
+	Query: "Coluber constrictor Nevada" ; Times: 1
+	Query: "cumv 1260" ; Times: 1
+	Query: "cumv 8233" ; Times: 1
+	Query: "cumv 712" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 14
+	Query: "Pituophis mugitus" ; Times: 1
+	Query: "Loding" ; Times: 2
+	Query: "xenodontinae" ; Times: 1
+	Query: "class:Reptilia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 3
+	Query: "Auburn University" ; Times: 1
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Crotalus horridus Georgia" ; Times: 3
+	Query: "university of texas" ; Times: 1
+	Query: "Leptotyphlops tissue:1" ; Times: 1
+	Query: "specificepithet:haje genus:naja" ; Times: 3
+	Query: "Micrurus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "cumv 397" ; Times: 1
+	Query: "Sceloporus grammicus microlepidotus" ; Times: 2
+	Query: "alligator mississippiensis" ; Times: 2
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "Farancia abacura" ; Times: 15
+	Query: "urosaurus mappable:1 tissue:1" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "apache creek texas" ; Times: 1
+	Query: "lampropeltis getula county:&#34;dare&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Lampropeltis elapsoides Georgia" ; Times: 1
+	Query: "cumv 728" ; Times: 1
+	Query: "Sistrurus miliarius miliarius" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(29.162555018601683,-100.31890869140625))&lt;50875" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sedgwick&#34; stateprovince:&#34;Kansas&#34; mappable:1" ; Times: 1
+	Query: "gekko philippine AND (not gecko)" ; Times: 1
+	Query: "Malaclemys terrapin littoralis" ; Times: 2
+	Query: "farancia abacura" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(35.178298352001185,-111.9232177734375))&lt;24987.54671807781" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "oxybelis arizona" ; Times: 2
+	Query: "Roaring River stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "gloydi" ; Times: 1
+	Query: "xenodontinae alsophis" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "cumv 837" ; Times: 2
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 2
+	Query: "heterodon simus" ; Times: 3
+	Query: "woodlawn bexar" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 507 download events in this period)
+Total number of records downloaded: 645
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 5
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;United States&#34;" ; Times: 2
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "Meizodon semiornatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34; distance(location,geopoint(29.162555018601683,-100.31890869140625))&lt;50875" ; Times: 1
+	Query: "lampropeltis getula county:&#34;dare&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Reptilia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+
+
+End of report.
