@@ -1,0 +1,102 @@
+Report for Institution Code CUMV, Resource cumv_rept
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Russia ; Times: 4
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 10
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-01 ; Times: 3
+	Date: 2016-03-08 ; Times: 6
+	Date: 2016-03-09 ; Times: 6
+	Date: 2016-03-06 ; Times: 7
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 4
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "demon" ; Times: 4
+	Query: "naja haje" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "post county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tissue:1 Cophosaurus" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Sonora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "specificepithet:costatus genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "diadophis punctatus" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "genus:Lampropeltis catalognumber:9593" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 5
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "Clemmys guttata Florida" ; Times: 1
+	Query: "genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "puebla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 230 download events in this period)
+Total number of records downloaded: 2657
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Bothrops asper" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+
+
+End of report.
