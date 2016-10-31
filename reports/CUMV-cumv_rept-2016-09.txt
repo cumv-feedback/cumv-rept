@@ -1,0 +1,127 @@
+Report for Institution Code CUMV, Resource cumv_rept
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 1299
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 72
+	Country: Belgium ; Times: 2
+	Country: Colombia ; Times: 47
+	Country: Portugal ; Times: 16
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-12 ; Times: 8
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-10 ; Times: 38
+	Date: 2016-09-08 ; Times: 8
+	Date: 2016-09-09 ; Times: 15
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-05 ; Times: 15
+	Date: 2016-09-07 ; Times: 24
+	Date: 2016-09-01 ; Times: 10
+	Date: 2016-09-02 ; Times: 6
+	Date: 2016-09-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis macrolepis 1" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "NA 1" ; Times: 35
+	Query: "Chrysemys picta 1" ; Times: 2
+	Query: "crotalus horridus new york" ; Times: 2
+	Query: "Lampropeltis gentilis triangulum" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 3
+	Query: "Macroprotodon cucullatus 1" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "egg nebraska" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Podarcis sicula 1" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "Anolis taylori 1" ; Times: 1
+	Query: "thamnophis eques" ; Times: 2
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "sceloporus undulatus el paso" ; Times: 2
+	Query: "Amastridium" ; Times: 2
+	Query: "genus:Caiman country:&#34;Panama&#34;" ; Times: 1
+	Query: "Anolis stejnegeri 1" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 3
+	Query: "type:specimen specificepithet:sagrei genus:Anolis country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "maricopa county mitchellii" ; Times: 1
+	Query: "terrapene ornata arizona" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 4
+	Query: "anolis institutioncode:CUMV" ; Times: 1
+	Query: "Anolis sagrei sagrei  1" ; Times: 2
+	Query: "class:Reptilia county:&#34;Botetourt&#34;" ; Times: 2
+	Query: "atropoides picadoi" ; Times: 1
+	Query: "Plestiodon fasciatus specificepithet:fasciatus genus:Plestiodon mappable:1" ; Times: 1
+	Query: "Chamaeleo chamaeleon 1" ; Times: 2
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "Leptotyphlops tissue:1" ; Times: 1
+	Query: "trachemys gaigeae" ; Times: 14
+	Query: "Thamnophis atratus" ; Times: 3
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "Oxybelis arizona" ; Times: 1
+	Query: "Anolis auratus 1" ; Times: 1
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "coluber lateralis" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "cnemidophorus tesselatus texas el paso" ; Times: 1
+	Query: "Phrynosoma county:&#34;Santa cruz&#34;" ; Times: 1
+	Query: "Actinemys" ; Times: 2
+	Query: "Gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 2
+	Query: "Clemmys guttata" ; Times: 2
+	Query: "sceloporus undulatus stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 3
+	Query: "Anolis sagrei 1" ; Times: 4
+	Query: "Apalone ferox 1" ; Times: 1
+	Query: "sphenodon" ; Times: 2
+	Query: "Trachemys scripta 1" ; Times: 5
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 2
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 811 download events in this period)
+Total number of records downloaded: 421
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "anolis institutioncode:CUMV" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "fort bliss reptilia" ; Times: 1
+	Query: "coluber lateralis" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 1
+	Query: "clelia" ; Times: 2
+
+
+End of report.
