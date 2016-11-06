@@ -1,0 +1,51 @@
+Report for Institution Code CUMV, Resource cumv_rept
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 101
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-11 ; Times: 1
+	Date: 2016-10-10 ; Times: 2
+	Date: 2016-10-26 ; Times: 4
+	Date: 2016-10-09 ; Times: 2
+	Date: 2016-10-05 ; Times: 1
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 3
+	Date: 2016-10-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "demon" ; Times: 2
+	Query: "Anolis carolinensis 1" ; Times: 2
+	Query: " Anolis sagrei 1" ; Times: 3
+	Query: "Anolis sagrei mappable:1" ; Times: 1
+	Query: " Anolis auratus 1" ; Times: 1
+	Query: "Anolis cristatellus 1" ; Times: 1
+	Query: " specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 4
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: " Anolis taylori 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
